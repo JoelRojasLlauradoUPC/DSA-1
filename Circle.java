@@ -1,4 +1,4 @@
-class Circle implements Figura
+class Circle implements Shape
 {
     double radius;
 

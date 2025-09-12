@@ -1,4 +1,4 @@
-interface Figura {
+interface Shape {
 
     public abstract double area();
 

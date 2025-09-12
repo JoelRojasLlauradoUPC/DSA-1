@@ -1,9 +1,9 @@
-class Triangulo implements Figura
+class Triangle implements Shape
 {
     double base;
     double altura;
 
-    Triangulo(double base, double altura)
+    Triangle(double base, double altura)
     {
         this.base = base;
         this.altura = altura;
