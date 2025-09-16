@@ -1,5 +1,5 @@
 interface Shape {
 
-    public abstract double area();
+    double area();
 
 }
